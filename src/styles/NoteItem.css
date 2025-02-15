@@ -1,0 +1,13 @@
+.note-item ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.note-item li {
+    display: flex;
+    align-items: center;
+}
+
+.note-item li input[type="checkbox"] {
+    margin-right: 10px;
+}

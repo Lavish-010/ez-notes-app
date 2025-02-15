@@ -1,0 +1,19 @@
+.note-editor ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.note-editor li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.note-editor li input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+.note-editor li input[type="text"] {
+    flex-grow: 1;
+    margin-right: 10px;
+}
